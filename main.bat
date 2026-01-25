@@ -1,7 +1,7 @@
 @echo off
 title SimpleCLI - mpck4
 chcp 65001 >nul
-cd C:\Users\charl\OneDrive\Desktop\offensive\files
+cd ..
 color 5
 :start
 call :banner
