@@ -2,6 +2,9 @@
 ### small cli tool project
 _originally created locally in 2024, I've updated and refined the project_
 
+__small note__
+_this will probably only work on windows with full functionality_
+
 ---
 ### DEPENDENCIES
 
